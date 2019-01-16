@@ -1,4 +1,7 @@
 <application>
+  <component name="EditorSettings">
+    <option name="IS_DND_ENABLED" value="false" />
+  </component>
   <component name="InspectionProfileManager">
     <info color="fe6e17">
       <option name="FOREGROUND" value="ecfcff" />
