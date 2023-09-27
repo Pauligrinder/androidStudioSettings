@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="fi.tiitusgroup.tiitus" />
+    <option name="mostRecentlyUsed" value="package:fi.cauco" />
     <option name="nonFavorites">
       <list>
+        <option value="package:fi.cauco" />
         <option value="fi.tiitusgroup.tiitus" />
         <option value="opentaxi" />
         <option value="package:com.opentaxi.dev" />
